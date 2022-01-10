@@ -1,6 +1,7 @@
 /******Descripcion del tema*********
 Uso de metodo burbuja
-es una manera de ordenamiento
+es una manera de ordenamiento en el que se usan arboles binarios.
+Se toma un pibote (no importa si es el ultimo numero o el primero); se coloca los numeros mayores en la derecha y los numeros menores en la izquierda
 
 **************/
 /*********Librerias******/
